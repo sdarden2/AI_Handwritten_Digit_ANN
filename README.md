@@ -2,7 +2,9 @@
 Uses an Artificial Neural Network to classify handwritten digits
 
 To use: python 2Ann.py 
+
 Uses optdigits_train.txt to train the network
+
 Uses optdigits_test.txt to test the network
 
 Handwritten digit data taken from:
